@@ -1,4 +1,4 @@
-# IP-Tracker 💣  
+# IP-Tracker 🥇 
 
 - sudo apt-get update -y && sudo apt-get upgrade -y && clear  
  
